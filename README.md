@@ -3,7 +3,7 @@ Olá, sou a Beatriz Paiva!<br>Iniciando no mundo de Desenvolvimento Web<br>Focad
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/[briz_y/])
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/briz_y/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beatriz-paiva-a12b53243/) 
 
 # 💻 Tech Stack:
