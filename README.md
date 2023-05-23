@@ -2,6 +2,7 @@
      Olá, sou a Beatriz Paiva!
      🌱Iniciando no mundo de Desenvolvimento Web
      🔭Focada em alcançar a carreira de Full Stack Developer
+     ✨Entusiasta em inteligência artificial
      
      
 ## 🌐 Socials:
